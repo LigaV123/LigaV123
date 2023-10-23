@@ -1,6 +1,6 @@
 ### Hi there 👋, I am software developer
 
-I have always been fascinated by the fact that everyone is able to create something new while using something so simple as a computer. From developing a new webpage, create a new game or make some manual work become automated. The best part about that is everyone can do it!
+I have always been fascinated by the fact that everyone is able to create something new while using something so simple as a computer. Whether it involves crafting web applications, designing engaging video games, or streamlining manual tasks through automation, the inherent power of technology is at the heart of this creative process. What's so great is that anyone can get in on this creative action.
 
 Here is my linked in profile link: https://www.linkedin.com/in/ligavilumsone/
 
