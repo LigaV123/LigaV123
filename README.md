@@ -2,6 +2,8 @@
 
 I have always been fascinated by the fact that everyone is able to create something new while using something so simple as a computer. Whether it involves crafting web applications, designing engaging video games, or streamlining manual tasks through automation, the inherent power of technology is at the heart of this creative process. What's so great is that anyone can get in on this creative action.
 
+I'm really into programming, and I want to work on projects that make life easier for people. Right now, I focus on programming, especially in C# and the .NET platform. This lets me build all sorts of apps for different systems.
+
 Here is my linked in profile link: https://www.linkedin.com/in/ligavilumsone/
 
 Overview of some of my completed projects:
