@@ -11,6 +11,6 @@ I have fond heart for programming, and I want to work on projects that make life
 
 :arrow_right: [Scooter Rental](https://github.com/LigaV123/Scooter_Rental) with Unit Testing (also using Moq) to make scooter service with workable rental options and income calculations.
 
-:arrow_right: [Flight Planner]() where HTTP & Web API basics were used to save data in a database using entity framework to manage available flights in airports (add and remove as needed) as administrator, and as clients to be able to find required flights.
+:arrow_right: [Flight Planner](https://github.com/LigaV123/Flight_Planner) where HTTP & Web API basics were used to save data in a database using entity framework to manage available flights in airports (add and remove as needed) as administrator, and as clients to be able to find required flights.
 
 :arrow_right: Employee Management with Unit Testing (also using Moq) to manage employee work contracts, calculate worked hours and their salary (still in progress).
