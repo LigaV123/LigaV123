@@ -1,9 +1,13 @@
 # Hi there 👋
 ## I am software developer :seedling:
 
-I have always been fascinated by the fact that everyone is able to create something new while using something so simple as a computer. Whether it involves crafting web applications, designing engaging video games, or various manual task automation, the inherent power of technology is at the heart of this creative process. What's so great is that anyone can get in on this creative action.
+I have always been fascinated by the fact that everyone is able to create something new while using something so simple as a computer. 
+Whether it involves crafting web applications, designing engaging video games, or various manual task automation, the inherent power of technology is at the heart of this creative process.
+What's so great is that anyone can get in on this creative action.
 
-I have fond heart for programming, and I want to work on projects that make life easier for people. Right now, I focus on programming, especially in C# and the .NET platform. This lets me build all sorts of apps for different systems.
+I have fond heart for programming, and I like to work on projects that make life easier or happier for people. Right now, I focus on programming, I excel in C# and the .NET platform, 
+crafting versatile applications for multiple operating systems. Proficient in JavaScript, TypeScript, React.js, CSS, and HTML, I design responsive, user-centric web interfaces. 
+My SQL expertise ensures effective database management and data-driven application development.
 
 :four_leaf_clover: Here is link to my [LinkedIn](https://www.linkedin.com/in/ligavilumsone/).
 
