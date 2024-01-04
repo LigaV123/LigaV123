@@ -18,5 +18,3 @@ My SQL expertise ensures effective database management and data-driven applicati
 :arrow_right: [Flight Planner](https://github.com/LigaV123/Flight_Planner) where HTTP & Web API basics were used to save data in a database using entity framework to manage available flights in airports (add and remove as needed) as administrator, and as clients to be able to find required flights.
 
 :arrow_right: [Controller](https://github.com/LigaV123/Controller) where the backend provides API with CRUD operations and save data in a database using entity framework, frontend was made in ReactJS with Typescript using NextJS framework and for styling was used TailwindCSS.
-
-:arrow_right: Employee Management with Unit Testing (also using Moq) to manage employee work contracts, calculate worked hours and their salary (still in progress).
