@@ -9,6 +9,9 @@ I have fond heart for programming, and I like to work on projects that make life
 crafting versatile applications for multiple operating systems. Proficient in JavaScript, TypeScript, React.js, CSS, and HTML, I design responsive, user-centric web interfaces. 
 My SQL expertise ensures effective database management and data-driven application development.
 
+In my spare time I continue to improve my coding skills by practicing solution solving at [coding games](https://www.codingame.com/start/) and keeping my eye at different types of coding documentation and its updates.
+That is how I step by step become more confident in the process of creating solutions to new challenges.
+
 :four_leaf_clover: Here is link to my [LinkedIn](https://www.linkedin.com/in/ligavilumsone/).
 
 ## Overview of some of my projects :seedling:
