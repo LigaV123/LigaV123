@@ -16,8 +16,27 @@ That is how I step by step become more confident in the process of creating solu
 
 ## Overview of some of my projects :seedling:
 
-:arrow_right: [Scooter Rental](https://github.com/LigaV123/Scooter_Rental) with Unit Testing (also using Moq) to make scooter service with workable rental options and income calculations.
+1) [Scooter Rental](https://github.com/LigaV123/Scooter_Rental)
+    Designed and developed a thorough Scooter Rental System with an emphasis on functionality and reliability, catering to the needs of scooter rental businesses.
+    Implemented rigorous unit testing methodologies, including the integration of Moq, to ensure the robustness and accuracy of the system under various scenarios and edge cases.
+    Integrated advanced features such as rental options and income calculations, leveraging industry-standard algorithms, to optimize scooter rental management processes and enhance operational efficiency.
 
-:arrow_right: [Flight Planner](https://github.com/LigaV123/Flight_Planner) where HTTP & Web API basics were used to save data in a database using entity framework to manage available flights in airports (add and remove as needed) as administrator, and as clients to be able to find required flights.
+2) [Flight Planner](https://github.com/LigaV123/Flight_Planner)
+    Developed a Flight Planner application utilizing HTTP & Web API basics, catering to the needs of airline administrators and travelers.
+    Utilized Entity Framework, a robust ORM framework, to facilitate efficient storage and management of flight data in a relational database, ensuring scalability and data integrity.
+    Developed dynamic functionalities empowering administrators to manage available flights dynamically, and facilitated clients with effective flight search capabilities, enhancing user experience and satisfaction.
 
-:arrow_right: [Controller](https://github.com/LigaV123/Controller) where the backend provides API with CRUD operations and save data in a database using entity framework, frontend was made in ReactJS with Typescript using NextJS framework and for styling was used TailwindCSS.
+3) [CV Storage](https://github.com/LigaV123/CV_storage)
+    Developed a CV Storage application using ASP.NET Core MVC, designed to manage client resumes.
+    Focused on backend API development, implementing CRUD operations and database management functionalities using Entity Framework, ensuring seamless data handling and manipulation.
+    Crafted a user-friendly frontend interface utilizing HTML for structure, CSS utilizing the Bootstrap framework for design, and JavaScript utilizing the jQuery library for interactivity and dynamic content rendering.
+    Implemented rigid data integrity and security measures leveraging FluentValidation, a powerful validation library, to validate user inputs and safeguard against data vulnerabilities, ensuring compliance with industry standards and regulations.
+
+4) [COVID-19 Data Exploration](https://github.com/LigaV123/SQL-Portfolio-Projects/tree/main/covid-portfolio-project)
+   The project conducts comprehensive SQL-based analysis on real-world COVID-19 data. Using advanced SQL skills such as joins,
+   CTEs, temporary tables, window functions, and aggregate functions, this project delves into various aspects of the pandemic's impact.
+
+
+6) [Nashville Housing Data Cleaning](https://github.com/LigaV123/SQL-Portfolio-Projects/tree/main/nashvill-housing-portfolio-project)
+   This project showcases the application of SQL queries in preprocessing and refining real estate data from the Nashville Housing database.
+   Addressing challenges such as data inconsistencies, missing values, duplicates, and unstructured data formats.
