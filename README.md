@@ -1,16 +1,13 @@
 # Hi there 👋
 ## I am software developer :seedling:
 
-I have always been fascinated by the fact that everyone is able to create something new while using something so simple as a computer. 
-Whether it involves crafting web applications, designing engaging video games, or various manual task automation, the inherent power of technology is at the heart of this creative process.
-What's so great is that anyone can get in on this creative action.
+I'm a results-driven professional with a passion for data analysis and a solid foundation in .NET development. 
+Currently honing my skills in SQL querying, data manipulation, and visualization. 
+I've demonstrated proficiency in extracting valuable insights from complex datasets through projects like COVID-19 Data Exploration and Nashville Housing Data Cleaning.
 
-I have fond heart for programming, and I like to work on projects that make life easier or happier for people. Right now, I focus on programming, I excel in C# and the .NET platform, 
-crafting versatile applications for multiple operating systems. Proficient in JavaScript, TypeScript, React.js, CSS, and HTML, I design responsive, user-centric web interfaces. 
-My SQL expertise ensures effective database management and data-driven application development.
+I'm on a journey to transition into a Data Analyst role, leveraging my technical expertise and analytical mindset. I'm eager to apply my skills in data manipulation, visualization, and problem-solving to derive meaningful insights and drive informed decision-making processes. Committed to continuous learning and professional development, I'm excited to excel in the field of data analysis and make impactful contributions to organizational success.
 
-In my spare time I continue to improve my coding skills by practicing solution solving at [coding games](https://www.codingame.com/start/) and keeping my eye at different types of coding documentation and its updates.
-That is how I step by step become more confident in the process of creating solutions to new challenges.
+Feel free to explore my repositories to see examples of my work and projects relevant to data analysis and .NET development. Let's connect and collaborate on exciting data-driven initiatives!
 
 :four_leaf_clover: Here is link to my [LinkedIn](https://www.linkedin.com/in/ligavilumsone/).
 
